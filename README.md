@@ -9,4 +9,4 @@ It's possible to choose an icon and change the size.
 
 You can draw custom icon.  
 When You want to change custom icon,  
-change "CrownCustomizer/Icons/localcustomIcon.dds".  
+change "CrownCustomizer/Icons/myCustomIcon.dds".  
