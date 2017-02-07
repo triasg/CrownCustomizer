@@ -3,7 +3,7 @@ local LAM2 = LibStub:GetLibrary("LibAddonMenu-2.0")
 CrownCustomizer = {} 
 
 CrownCustomizer.name = "CrownCustomizer"
-CrownCustomizer.version = "1.0.1"
+CrownCustomizer.version = "-"
 CrownCustomizer.author = "@triase"
 CrownCustomizer.Default = {
     IconSize = 64,
@@ -32,6 +32,9 @@ CrownCustomizer.SelectIcons = {
     { name = "Ebonheart Pact", path = "esoui/art/stats/alliancebadge_ebonheart.dds" },
     { name = "Bethesda", path = "esoui/art/login/credits_bethesda_logo.dds" },
     { name = "Zenimax Online", path = "esoui/art/login/credits_zos_logo.dds" },
+    { name = "My CustomIcon", path = "CrownCustomizer/Icons/myCustomIcon.dds" },
+    { name = "triase's Cats Pad", path = "CrownCustomizer/Icons/catspad.dds" },
+    { name = "Scootworks's Wabbajack", path = "CrownCustomizer/Icons/wabbajack.dds" },
 }
 
 function CrownCustomizer.OnAddOnLoaded(event, addonName)
@@ -52,7 +55,7 @@ function CrownCustomizer.CreateSettingsWindow()
         name = "CrownCustomizer",
         displayName = "CrownCustomizer",
         author = "@triase",
-        version = CrownCustomizer.version,
+        version = "1.0.3",
         slashCommand = "/crcu",
         registerForRefresh = true,
         registerForDefaults = false,
