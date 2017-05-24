@@ -1,7 +1,7 @@
 # CrownCustomizer
 CrownCustomizer is ESO Addon.  
-Version: 1.0.3  
-APIVersion: 100018
+Version: 1.0.4  
+APIVersion: 100019  
 
 CrownCustomizer makes the leader of a group easy to find.  
 The big icon is displayed over the leader's head.  

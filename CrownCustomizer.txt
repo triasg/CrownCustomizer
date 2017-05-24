@@ -1,7 +1,7 @@
 ## Title: CrownCustomizer
 ## Author: @triase
-## APIVersion: 100018
-## Version: 1.0.3
+## APIVersion: 100019
+## Version: 1.0.4
 ## SavedVariables: CrownCustomizerVars
 ## OptionalDependsOn: LibAddonMenu-2.0
 
