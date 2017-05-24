@@ -55,7 +55,7 @@ function CrownCustomizer.CreateSettingsWindow()
         name = "CrownCustomizer",
         displayName = "CrownCustomizer",
         author = "@triase",
-        version = "1.0.3",
+        version = "1.0.4",
         slashCommand = "/crcu",
         registerForRefresh = true,
         registerForDefaults = false,
